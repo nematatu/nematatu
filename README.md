@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nematatu!</h1>
 <h3 align="center">I'm a College student who likes Flutter and the web.</h3>
 

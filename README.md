@@ -26,8 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nematatu&show_icons=true&locale=en" alt="nematatu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nematatu&" alt="nematatu" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nematatu&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nematatu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nematatu/nematatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

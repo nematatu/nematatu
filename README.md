@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nematatu&label=Profile%20views&color=0e75b6&style=flat" alt="nematatu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nematatu" alt="nematatu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/T_kanntoku" target="blank"><img src="https://img.shields.io/twitter/follow/T_kanntoku?logo=twitter&style=for-the-badge" alt="amatatu" /></a> </p>
 
 - 🔭 I’m currently working on **build tech blog**

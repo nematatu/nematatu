@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nematatu!</h1>
-<h3 align="center">I'm a College student who likes Flutter and the web.</h3>
+<h3 align="center">I'm a College student love web technology!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nematatu&label=Profile%20views&color=0e75b6&style=flat" alt="nematatu" /> </p>
 

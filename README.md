@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js,Next.js,TS**
 
-- 👨‍💻 All of my projects are available at [https://nematatu.github.io/website/mysite/](https://amatatu.com)
+- 👨‍💻 All of my projects are available at [https://amatatu.com](https://amatatu.com)
 
 - ⚡ Fun fact **I love Badminton!!**
 

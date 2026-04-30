@@ -1,7 +1,10 @@
-<img width="1773" height="605" alt="IMG_3734 Copy" src="https://github.com/user-attachments/assets/4d14e417-ccf6-4b62-a184-7240e52232be" />
+<img width="1765" height="355" alt="IMG_3734 Copy" src="https://github.com/user-attachments/assets/41f269e9-6d53-4c02-ba01-8968518fa25b" />
 
+<br/>
 
 [amatatu.com](https://amatatu.com)
+
+<br/>
 
 ![](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/hono-20232A?style=for-the-badge&logo=hono&logoColor=E36002) ![](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 

@@ -8,6 +8,4 @@
 
 <!--![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
-### Recently played
-
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=0s1m78n2vnocmqsvb56qeioe6&theme=spotify&unique=1&album=1&count=5&now_playing=1)

@@ -9,3 +9,11 @@
 <!--![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=0s1m78n2vnocmqsvb56qeioe6&theme=spotify&unique=1&album=1&count=5&now_playing=1)
+
+<!-- running-readme:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://running-readme-api.amtt.workers.dev/running.svg?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://running-readme-api.amtt.workers.dev/running.svg?theme=light">
+  <img alt="Annual running distance and duration" src="https://running-readme-api.amtt.workers.dev/running.svg?theme=light" width="420">
+</picture>
+<!-- running-readme:end -->
